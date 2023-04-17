@@ -6,6 +6,7 @@ import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
 
+
 # Function to read text file
 def read_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
