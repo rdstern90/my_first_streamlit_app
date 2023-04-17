@@ -6,7 +6,6 @@ import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
 
-
 # Function to read text file
 def read_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -32,7 +31,7 @@ def generate_bar_chart(text, remove_stop_words=True, min_word_count=40):
     sorted_word_count = sorted(top_words.items(), key=lambda x: x[1], reverse=False)
     ax.barh([word for word, count in sorted_word_count], [count for word, count in sorted_word_count])
     for i, (word, count) in enumerate(sorted_word_count):
-        ax.text(count + 1, i, count, ha='left', va='center')
+        ax.text(count + 1, i, count, ha='left', va='center', fontsize=7)
     ax.set_title('Word Count')
     ax.set_xlabel('Count')
     ax.set_ylabel('Word')
