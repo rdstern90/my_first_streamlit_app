@@ -1,0 +1,441 @@
+roundNum,driverref,grid_start,position,points,status,race_time_ms,fastest_lap_time,fastest_lap_avg_speed
+1,leclerc,1,1,26,Finished,5853584,94570,206.018
+1,sainz,3,2,18,Finished,5859182,95740,203.501
+1,hamilton,5,3,15,Finished,5863259,96228,202.469
+1,russell,9,4,12,Finished,5864795,96302,202.313
+1,kevin_magnussen,7,5,10,Finished,5868338,96623,201.641
+1,bottas,6,6,8,Finished,5869703,96599,201.691
+1,ocon,11,7,6,Finished,5873007,97110,200.630
+1,tsunoda,16,8,4,Finished,5873970,97104,200.642
+1,alonso,8,9,2,Finished,5875974,96733,201.412
+1,zhou,15,10,1,Finished,5876648,96685,201.512
+1,mick_schumacher,12,11,0,Finished,5886158,96956,200.948
+1,stroll,19,12,0,Finished,5899457,97146,200.555
+1,albon,14,13,0,Finished,5907516,97355,200.125
+1,ricciardo,18,14,0,Finished,5908559,97261,200.318
+1,norris,13,15,0,Finished,5909919,96988,200.882
+1,latifi,20,16,0,Finished,5915379,98251,198.300
+1,hulkenberg,17,17,0,Finished,5917413,98201,198.401
+1,perez,4,18,0,Fuel pressure,,96089,202.762
+1,max_verstappen,2,19,0,Fuel pressure,,95440,204.140
+1,gasly,10,20,0,Power Unit,,97324,200.189
+2,max_verstappen,4,1,25,Finished,5059293,91772,242.191
+2,leclerc,2,2,19,Finished,5059842,91634,242.556
+2,sainz,3,3,15,Finished,5067390,91905,241.841
+2,perez,1,4,12,Finished,5070093,92042,241.481
+2,russell,6,5,10,Finished,5092025,92821,239.454
+2,ocon,5,6,8,Finished,5115310,93103,238.729
+2,norris,11,7,6,Finished,5115417,92753,239.629
+2,gasly,9,8,4,Finished,5122239,93468,237.796
+2,kevin_magnussen,10,9,2,Finished,5123601,92779,239.562
+2,hamilton,15,10,1,Finished,5133241,92997,239.001
+2,zhou,12,11,0,Finished,5141508,93924,236.642
+2,hulkenberg,17,12,0,Finished,5151035,93651,237.332
+2,stroll,13,13,0,+1 Lap,,94446,235.334
+2,albon,16,14,0,Collision damage,,94368,235.528
+2,bottas,8,15,0,Cooling system,,93979,236.503
+2,alonso,7,16,0,Water pump,,93831,236.876
+2,ricciardo,14,17,0,Gearbox,,94487,235.232
+2,latifi,18,18,0,Accident,,97530,227.892
+2,tsunoda,19,19,0,Power Unit,,,
+2,mick_schumacher,0,20,0,Withdrew,,,
+3,leclerc,1,1,26,Finished,5266548,80260,236.740
+3,perez,3,2,18,Finished,5287072,81094,234.305
+3,russell,6,3,15,Finished,5292141,81495,233.152
+3,hamilton,5,4,12,Finished,5295091,81886,232.039
+3,norris,4,5,10,Finished,5319851,82248,231.018
+3,ricciardo,7,6,8,Finished,5320285,82451,230.449
+3,ocon,8,7,6,Finished,5328231,82469,230.399
+3,bottas,12,8,4,Finished,5334987,81651,232.707
+3,gasly,11,9,2,Finished,5342769,82731,229.669
+3,albon,20,10,1,Finished,5345930,82589,230.064
+3,zhou,14,11,0,Finished,5348243,82541,230.198
+3,stroll,19,12,0,Finished,5355146,83592,227.304
+3,mick_schumacher,15,13,0,+1 Lap,,83006,228.908
+3,kevin_magnussen,16,14,0,+1 Lap,,83071,228.729
+3,tsunoda,13,15,0,+1 Lap,,83342,227.985
+3,latifi,18,16,0,+1 Lap,,83882,226.518
+3,alonso,10,17,0,+1 Lap,,80846,235.024
+3,max_verstappen,2,18,0,Fuel leak,,81677,232.633
+3,vettel,17,19,0,Accident,,85189,223.042
+3,sainz,9,20,0,Spun off,,,
+4,max_verstappen,1,1,26,Finished,5527986,78446,225.281
+4,perez,3,2,18,Finished,5544513,78949,223.845
+4,norris,5,3,15,Finished,5562820,80903,218.439
+4,russell,11,4,12,Finished,5570492,80962,218.280
+4,bottas,7,5,10,Finished,5571167,80758,218.831
+4,leclerc,2,6,8,Finished,5584058,78574,224.914
+4,tsunoda,12,7,6,Finished,5589096,80544,219.412
+4,vettel,13,8,4,Finished,5598878,81211,217.610
+4,kevin_magnussen,8,9,2,Finished,5603246,81238,217.538
+4,stroll,15,10,1,+1 Lap,,81750,216.176
+4,albon,18,11,0,+1 Lap,,81757,216.157
+4,gasly,17,12,0,+1 Lap,,81713,216.274
+4,hamilton,14,13,0,+1 Lap,,81419,217.054
+4,ocon,16,14,0,+1 Lap,,81887,215.814
+4,zhou,0,15,0,+1 Lap,,81286,217.410
+4,latifi,19,16,0,+1 Lap,,81338,217.271
+4,mick_schumacher,10,17,0,+1 Lap,,78999,223.704
+4,ricciardo,6,18,0,+1 Lap,,81577,216.634
+4,alonso,9,19,0,Collision damage,,99685,177.282
+4,sainz,4,20,0,Collision,,,
+5,max_verstappen,3,1,26,Finished,5664258,91361,213.255
+5,leclerc,1,2,18,Finished,5668044,91488,212.959
+5,sainz,2,3,15,Finished,5672487,91790,212.258
+5,perez,4,4,12,Finished,5674896,91819,212.191
+5,russell,12,5,10,Finished,5682840,92195,211.325
+5,hamilton,6,6,8,Finished,5685626,92941,209.629
+5,bottas,5,7,6,Finished,5689331,93184,209.083
+5,ocon,20,8,4,Finished,5692644,93163,209.130
+5,albon,18,9,2,Finished,5696623,93447,208.494
+5,stroll,0,10,1,Finished,5701284,93312,208.796
+5,alonso,11,11,0,Finished,5701386,93331,208.753
+5,tsunoda,9,12,0,Finished,5704404,93035,209.417
+5,ricciardo,14,13,0,Finished,5705160,93265,208.901
+5,latifi,19,14,0,Finished,5714194,94169,206.896
+5,mick_schumacher,15,15,0,Finished,5737563,92528,210.565
+5,kevin_magnussen,16,16,0,Front wing,,93511,208.351
+5,vettel,0,17,0,Collision,,93479,208.423
+5,gasly,7,18,0,Suspension,,94487,206.199
+5,norris,8,19,0,Collision,,93411,208.575
+5,zhou,17,20,0,Water leak,,95731,203.520
+6,max_verstappen,2,1,25,Finished,5840475,85456,196.943
+6,perez,5,2,19,Finished,5853547,84108,200.099
+6,russell,4,3,15,Finished,5873402,84636,198.851
+6,sainz,3,4,12,Finished,5885683,85985,195.731
+6,hamilton,6,5,10,Finished,5895009,84253,199.755
+6,bottas,7,6,8,Finished,5900451,86395,194.802
+6,ocon,12,7,6,Finished,5915872,85935,195.845
+6,norris,11,8,4,Finished,5923710,85619,196.568
+6,alonso,20,9,2,+1 Lap,,86599,194.344
+6,tsunoda,13,10,1,+1 Lap,,86828,193.831
+6,vettel,16,11,0,+1 Lap,,87629,192.059
+6,ricciardo,9,12,0,+1 Lap,,87285,192.816
+6,gasly,14,13,0,+1 Lap,,86987,193.477
+6,mick_schumacher,10,14,0,+1 Lap,,87447,192.459
+6,stroll,17,15,0,+1 Lap,,86876,193.724
+6,latifi,19,16,0,+2 Laps,,87246,192.902
+6,kevin_magnussen,8,17,0,+2 Laps,,87537,192.261
+6,albon,18,18,0,+2 Laps,,88281,190.641
+6,zhou,15,19,0,Power loss,,88415,190.352
+6,leclerc,1,20,0,Turbo,,87030,193.381
+7,perez,3,1,25,Finished,6990265,76028,158.010
+7,sainz,2,2,18,Finished,6991419,76421,157.197
+7,max_verstappen,4,3,15,Finished,6991756,76052,157.960
+7,leclerc,1,4,12,Finished,6993187,76249,157.552
+7,russell,6,5,10,Finished,7002233,76830,156.360
+7,norris,5,6,9,Finished,7002496,74693,160.834
+7,alonso,7,7,6,Finished,7036623,75882,158.314
+7,hamilton,8,8,4,Finished,7040653,77203,155.605
+7,bottas,12,9,2,Finished,7042790,77600,154.809
+7,vettel,9,10,1,Finished,7043801,77558,154.893
+7,gasly,17,11,0,Finished,7044554,77344,155.321
+7,ocon,10,12,0,Finished,7045909,77571,154.867
+7,ricciardo,14,13,0,Finished,7047900,77532,154.945
+7,stroll,18,14,0,Finished,7051067,77672,154.665
+7,latifi,19,15,0,+1 Lap,,78579,152.880
+7,zhou,20,16,0,+1 Lap,,78200,153.621
+7,tsunoda,11,17,0,+1 Lap,,75334,159.465
+7,albon,16,18,0,Mechanical,,78023,153.969
+7,mick_schumacher,15,19,0,Accident,,84778,141.701
+7,kevin_magnussen,13,20,0,Water pressure,,93754,128.135
+8,max_verstappen,3,1,25,Finished,5645941,106050,203.779
+8,perez,2,2,19,Finished,5666764,106046,203.787
+8,russell,5,3,15,Finished,5691936,107177,201.636
+8,hamilton,7,4,12,Finished,5717620,107044,201.887
+8,gasly,6,5,10,Finished,5723240,108519,199.143
+8,vettel,9,6,8,Finished,5730040,108206,199.719
+8,alonso,10,7,6,Finished,5734537,107989,200.120
+8,ricciardo,12,8,4,Finished,5738148,108276,199.589
+8,norris,11,9,2,Finished,5738497,107997,200.105
+8,ocon,13,10,1,Finished,5754125,108297,199.551
+8,bottas,15,11,0,+1 Lap,,108179,199.768
+8,albon,17,12,0,+1 Lap,,107966,200.163
+8,tsunoda,8,13,0,+1 Lap,,107523,200.987
+8,mick_schumacher,20,14,0,+1 Lap,,108410,199.343
+8,latifi,18,15,0,+1 Lap,,109583,197.209
+8,stroll,19,16,0,Vibrations,,108038,200.029
+8,kevin_magnussen,16,17,0,Power Unit,,108789,198.648
+8,zhou,14,18,0,Hydraulics,,108723,198.769
+8,leclerc,1,19,0,Power Unit,,107531,200.972
+8,sainz,4,20,0,Hydraulics,,108978,198.304
+9,max_verstappen,1,1,25,Finished,5781757,75839,207.012
+9,sainz,3,2,19,Finished,5782750,75749,207.258
+9,hamilton,4,3,15,Finished,5788763,76167,206.120
+9,russell,8,4,12,Finished,5794070,76418,205.443
+9,leclerc,19,5,10,Finished,5796925,75901,206.843
+9,ocon,7,6,8,Finished,5805647,77110,203.600
+9,bottas,11,7,6,Finished,5807004,77010,203.864
+9,zhou,10,8,4,Finished,5808709,76927,204.084
+9,alonso,2,9,2,Finished,5811702,76578,205.014
+9,stroll,17,10,1,Finished,5819979,77421,202.782
+9,ricciardo,9,11,0,Finished,5824804,77932,201.452
+9,vettel,16,12,0,Finished,5826002,77956,201.390
+9,albon,12,13,0,Finished,5826650,77951,201.403
+9,gasly,15,14,0,Finished,5826940,77810,201.768
+9,norris,14,15,0,Finished,5833902,77495,202.588
+9,latifi,18,16,0,Finished,5841735,78540,199.893
+9,kevin_magnussen,5,17,0,Finished,5849937,78046,201.158
+9,tsunoda,20,18,0,Accident,,78309,200.482
+9,mick_schumacher,6,19,0,Engine,,78967,198.812
+9,perez,13,20,0,Gearbox,,78844,199.122
+10,sainz,1,1,25,Finished,8270311,90813,233.530
+10,perez,4,2,18,Finished,8274090,90937,233.212
+10,hamilton,5,3,16,Finished,8276536,90510,234.312
+10,leclerc,3,4,12,Finished,8278857,91282,232.330
+10,alonso,7,5,10,Finished,8279882,91609,231.501
+10,norris,6,6,8,Finished,8282254,91645,231.410
+10,max_verstappen,2,7,6,Finished,8289088,92354,229.633
+10,mick_schumacher,19,8,4,Finished,8289306,92109,230.244
+10,vettel,18,9,2,Finished,8292667,92471,229.343
+10,kevin_magnussen,17,10,1,Finished,8294901,92661,228.872
+10,stroll,20,11,0,Finished,8296458,92379,229.571
+10,latifi,10,12,0,Finished,8302822,93286,227.339
+10,ricciardo,14,13,0,Finished,8303128,92644,228.914
+10,tsunoda,13,14,0,Finished,8311221,93832,226.016
+10,ocon,15,15,0,Fuel pump,,93537,226.729
+10,gasly,11,16,0,Collision damage,,94614,224.148
+10,bottas,12,17,0,Gearbox,,95103,222.996
+10,russell,8,18,0,Collision,,,
+10,zhou,9,19,0,Collision,,,
+10,albon,16,20,0,Collision,,,
+11,leclerc,2,1,25,Finished,5064312,67583,230.010
+11,max_verstappen,1,2,19,Finished,5065844,67275,231.063
+11,hamilton,8,3,15,Finished,5105529,69000,225.286
+11,russell,4,4,12,Finished,5123284,69075,225.042
+11,ocon,6,5,10,Finished,5132748,69559,223.476
+11,mick_schumacher,9,6,8,+1 Lap,,69625,223.264
+11,norris,10,7,6,+1 Lap,,69304,224.298
+11,kevin_magnussen,7,8,4,+1 Lap,,69938,222.265
+11,ricciardo,11,9,2,+1 Lap,,69924,222.309
+11,alonso,19,10,1,+1 Lap,,68558,226.739
+11,bottas,0,11,0,+1 Lap,,69266,224.421
+11,albon,15,12,0,+1 Lap,,69669,223.123
+11,stroll,12,13,0,+1 Lap,,70048,221.916
+11,zhou,13,14,0,+1 Lap,,69380,224.053
+11,gasly,14,15,0,+1 Lap,,70104,221.739
+11,tsunoda,16,16,0,+1 Lap,,70023,221.995
+11,vettel,18,17,0,+1 Lap,,70001,222.065
+11,sainz,3,18,0,Power Unit,,68649,226.438
+11,latifi,17,19,0,Undertray,,70890,219.280
+11,perez,5,20,0,Collision damage,,71843,216.371
+12,max_verstappen,2,1,25,Finished,5402112,97491,215.724
+12,hamilton,4,2,18,Finished,5412699,97668,215.333
+12,russell,6,3,15,Finished,5418607,97548,215.598
+12,perez,3,4,12,Finished,5419422,97780,215.086
+12,sainz,19,5,11,Finished,5430984,95781,219.575
+12,alonso,7,6,8,Finished,5444991,98160,214.254
+12,norris,5,7,6,Finished,5454138,99037,212.356
+12,ocon,10,8,4,Finished,5459071,98684,213.116
+12,ricciardo,9,9,2,Finished,5462484,99133,212.151
+12,stroll,15,10,1,Finished,5464661,99185,212.040
+12,vettel,12,11,0,Finished,5466606,99044,212.341
+12,gasly,14,12,0,Finished,5467560,98786,212.896
+12,albon,13,13,0,Finished,5470677,99199,212.010
+12,bottas,11,14,0,Finished,5478778,97963,214.685
+12,mick_schumacher,17,15,0,Finished,5482506,99068,212.290
+12,zhou,16,16,0,+6 Laps,,99368,211.649
+12,latifi,18,17,0,Collision damage,,99650,211.050
+12,kevin_magnussen,20,18,0,Collision damage,,99265,211.869
+12,leclerc,1,19,0,Accident,,98088,214.411
+12,tsunoda,8,20,0,Undertray,,100216,209.858
+13,max_verstappen,10,1,25,Finished,5975912,82126,192.041
+13,hamilton,7,2,19,Finished,5983746,81386,193.787
+13,russell,1,3,15,Finished,5988249,82766,190.556
+13,sainz,2,4,12,Finished,5990491,82000,192.336
+13,perez,11,5,10,Finished,5991600,81940,192.477
+13,leclerc,3,6,8,Finished,5991959,81622,193.227
+13,norris,4,7,6,Finished,6054212,83043,189.920
+13,alonso,6,8,4,+1 Lap,,83979,187.804
+13,ocon,5,9,2,+1 Lap,,84149,187.424
+13,vettel,18,10,1,+1 Lap,,82824,190.423
+13,stroll,14,11,0,+1 Lap,,82437,191.317
+13,gasly,0,12,0,+1 Lap,,83199,189.564
+13,zhou,12,13,0,+1 Lap,,82029,192.268
+13,mick_schumacher,15,14,0,+1 Lap,,83151,189.674
+13,ricciardo,9,15,0,+1 Lap,,83654,188.533
+13,kevin_magnussen,13,16,0,+1 Lap,,83511,188.856
+13,albon,17,17,0,+1 Lap,,83047,189.911
+13,latifi,19,18,0,+1 Lap,,82478,191.221
+13,tsunoda,16,19,0,+2 Laps,,83538,188.795
+13,bottas,8,20,0,Power Unit,,84002,187.752
+14,max_verstappen,14,1,26,Finished,5152894,109354,230.575
+14,perez,2,2,18,Finished,5170735,110764,227.640
+14,sainz,1,3,15,Finished,5179780,111977,225.174
+14,russell,5,4,12,Finished,5182034,110793,227.581
+14,alonso,3,5,10,Finished,5226150,112868,223.397
+14,leclerc,15,6,8,Finished,5227830,109984,229.255
+14,ocon,16,7,6,Finished,5228534,111717,225.698
+14,vettel,10,8,4,Finished,5231001,112515,224.098
+14,gasly,0,9,2,Finished,5245075,113002,223.132
+14,albon,6,10,1,Finished,5254794,113055,223.027
+14,stroll,9,11,0,Finished,5255972,112880,223.373
+14,norris,17,12,0,Finished,5257633,111678,225.777
+14,tsunoda,0,13,0,Finished,5258111,112436,224.255
+14,zhou,18,14,0,Finished,5259146,112317,224.493
+14,ricciardo,7,15,0,Finished,5260057,113080,222.978
+14,kevin_magnussen,12,16,0,+1 Lap,,113332,222.482
+14,mick_schumacher,19,17,0,+1 Lap,,112646,223.837
+14,latifi,11,18,0,+1 Lap,,112256,224.615
+14,bottas,13,19,0,Accident,,,
+14,hamilton,4,20,0,Collision damage,,,
+15,max_verstappen,1,1,26,Finished,5802773,73652,208.173
+15,russell,6,2,18,Finished,5806844,73671,208.119
+15,leclerc,2,3,15,Finished,5813702,74413,206.044
+15,hamilton,4,4,12,Finished,5815789,73854,207.604
+15,perez,5,5,10,Finished,5820941,74404,206.069
+15,alonso,13,6,8,Finished,5821527,74144,206.792
+15,norris,7,7,6,Finished,5822079,74706,205.236
+15,sainz,3,8,4,Finished,5823689,74643,205.409
+15,ocon,12,9,2,Finished,5823890,75084,204.203
+15,stroll,10,10,1,Finished,5825232,75043,204.314
+15,gasly,11,11,0,Finished,5829782,75165,203.983
+15,albon,15,12,0,Finished,5833163,75534,202.986
+15,mick_schumacher,8,13,0,Finished,5835768,75233,203.798
+15,vettel,19,14,0,Finished,5838780,74862,204.808
+15,kevin_magnussen,18,15,0,Finished,5839642,75369,203.431
+15,zhou,14,16,0,Finished,5840093,75940,201.901
+15,ricciardo,17,17,0,Finished,5840537,75577,202.871
+15,latifi,20,18,0,+1 Lap,,76066,201.567
+15,bottas,16,19,0,Engine,,76844,199.526
+15,tsunoda,9,20,0,Differential,,77138,198.765
+16,max_verstappen,7,1,25,Finished,4827511,84745,246.088
+16,leclerc,1,2,18,Finished,4829957,84336,247.282
+16,russell,2,3,15,Finished,4830916,85288,244.522
+16,sainz,18,4,12,Finished,4832572,84446,246.960
+16,hamilton,19,5,10,Finished,4832891,84434,246.995
+16,perez,13,6,9,Finished,4833602,84030,248.182
+16,norris,3,7,6,Finished,4833718,84718,246.167
+16,gasly,5,8,4,Finished,4833907,86718,240.489
+16,de_vries,8,9,2,Finished,4834633,86624,240.750
+16,zhou,9,10,1,Finished,4835421,86361,241.484
+16,ocon,14,11,0,Finished,4835834,86593,240.837
+16,mick_schumacher,17,12,0,Finished,4836060,85298,244.493
+16,bottas,15,13,0,+1 Lap,,85706,243.329
+16,tsunoda,20,14,0,+1 Lap,,86857,240.105
+16,latifi,10,15,0,+1 Lap,,86798,240.268
+16,kevin_magnussen,16,16,0,+1 Lap,,86798,240.268
+16,ricciardo,4,17,0,Oil leak,,86603,240.809
+16,stroll,12,18,0,Engine,,87467,238.430
+16,alonso,6,19,0,Water pressure,,87203,239.152
+16,vettel,11,20,0,Engine,,87501,238.337
+17,perez,2,1,25,Finished,7340238,108165,168.509
+17,leclerc,1,2,18,Finished,7342833,108753,167.598
+17,sainz,4,3,15,Finished,7350543,108414,168.122
+17,norris,6,4,12,Finished,7361371,109212,166.893
+17,ricciardo,16,5,10,Finished,7393520,111006,164.196
+17,stroll,11,6,8,Finished,7396568,110283,165.272
+17,max_verstappen,8,7,6,Finished,7399063,109142,167.000
+17,vettel,13,8,4,Finished,7400270,110669,164.696
+17,hamilton,3,9,2,Finished,7401753,110622,164.766
+17,gasly,7,10,1,Finished,7409814,110569,164.845
+17,bottas,15,11,0,Finished,7429082,111864,162.937
+17,kevin_magnussen,9,12,0,Finished,7432848,112067,162.641
+17,mick_schumacher,12,13,0,+1 Lap,,110290,165.262
+17,russell,0,14,0,+2 Laps,,106458,171.211
+17,tsunoda,10,15,0,Accident,,118716,153.532
+17,ocon,17,16,0,Engine,,121105,150.504
+17,albon,18,17,0,Collision damage,,122121,149.251
+17,alonso,5,18,0,Engine,,120463,151.306
+17,latifi,19,19,0,Collision damage,,125585,145.135
+17,zhou,14,20,0,Collision,,125556,145.168
+18,max_verstappen,1,1,25,Finished,10904004,104911,199.266
+18,perez,4,2,18,Finished,10931070,106120,196.995
+18,leclerc,2,3,15,Finished,10935767,104489,200.070
+18,ocon,5,4,12,Finished,10943689,106559,196.184
+18,hamilton,6,5,10,Finished,10944330,105530,198.097
+18,vettel,9,6,8,Finished,10950362,106964,195.441
+18,alonso,7,7,6,Finished,10950373,104412,200.218
+18,russell,8,8,4,Finished,10951665,107004,195.368
+18,latifi,20,9,2,Finished,10974147,108371,192.904
+18,norris,10,10,1,Finished,10974786,108175,193.253
+18,ricciardo,11,11,0,Finished,10976881,107843,193.848
+18,stroll,19,12,0,Finished,10977908,105205,198.709
+18,tsunoda,13,13,0,Finished,10979603,105893,197.418
+18,kevin_magnussen,18,14,0,Finished,10990020,108072,193.437
+18,bottas,12,15,0,Finished,10990500,107820,193.889
+18,zhou,14,16,0,Finished,10991047,104411,200.220
+18,mick_schumacher,15,17,0,Finished,10996527,105387,198.366
+18,gasly,17,18,0,Finished,11012095,106545,196.210
+18,sainz,3,19,0,Accident,,,
+18,albon,16,20,0,Hydraulics,,,
+19,max_verstappen,2,1,25,Finished,6131687,99541,199.383
+19,hamilton,3,2,18,Finished,6136710,99830,198.805
+19,leclerc,12,3,15,Finished,6139188,99731,199.003
+19,perez,9,4,12,Finished,6139980,99563,199.339
+19,russell,4,5,11,Finished,6176502,98788,200.902
+19,norris,6,6,8,Finished,6185472,101322,195.878
+19,alonso,14,7,6,Finished,6186765,101538,195.461
+19,vettel,10,8,4,Finished,6197041,102546,193.540
+19,kevin_magnussen,13,9,2,Finished,6197521,102206,194.184
+19,tsunoda,19,10,1,Finished,6202606,101243,196.031
+19,ocon,0,11,0,Finished,6204562,102394,193.827
+19,zhou,18,12,0,Finished,6207851,102471,193.682
+19,albon,8,13,0,Finished,6211744,101674,195.200
+19,gasly,11,14,0,Finished,6213450,102320,193.967
+19,mick_schumacher,16,15,0,Finished,6216177,101804,194.951
+19,ricciardo,15,16,0,Finished,6222174,102420,193.778
+19,latifi,17,17,0,Finished,6235275,103485,191.784
+19,stroll,5,18,0,Collision,,103080,192.537
+19,bottas,7,19,0,Spun off,,103391,191.958
+19,sainz,1,20,0,Collision damage,,,
+20,max_verstappen,1,1,25,Finished,5916729,82046,188.850
+20,hamilton,3,2,18,Finished,5931915,82062,188.813
+20,perez,4,3,15,Finished,5934826,81775,189.476
+20,russell,2,4,13,Finished,5966160,80153,193.310
+20,sainz,5,5,10,Finished,5974852,82199,188.498
+20,leclerc,7,6,8,Finished,5985503,82603,187.576
+20,ricciardo,11,7,6,+1 Lap,,82022,188.905
+20,ocon,10,8,4,+1 Lap,,83279,186.054
+20,norris,8,9,2,+1 Lap,,83402,185.779
+20,bottas,6,10,1,+1 Lap,,83363,185.866
+20,gasly,14,11,0,+1 Lap,,82277,188.319
+20,albon,17,12,0,+1 Lap,,82914,186.873
+20,zhou,12,13,0,+1 Lap,,82260,188.358
+20,vettel,16,14,0,+1 Lap,,83086,186.486
+20,stroll,20,15,0,+1 Lap,,82463,187.895
+20,mick_schumacher,15,16,0,+1 Lap,,83641,185.248
+20,kevin_magnussen,19,17,0,+1 Lap,,83300,186.007
+20,latifi,18,18,0,+2 Laps,,83709,185.098
+20,alonso,9,19,0,Engine,,82866,186.981
+20,tsunoda,13,20,0,Collision damage,,83403,185.777
+21,russell,1,1,26,Finished,5914044,73785,210.237
+21,hamilton,2,2,18,Finished,5915573,73942,209.791
+21,sainz,7,3,15,Finished,5918095,73953,209.760
+21,leclerc,5,4,12,Finished,5922485,74253,208.912
+21,alonso,17,5,10,Finished,5923605,74164,209.163
+21,max_verstappen,3,6,8,Finished,5924100,74195,209.076
+21,perez,4,7,6,Finished,5928124,74283,208.828
+21,ocon,16,8,4,Finished,5932734,75093,206.575
+21,bottas,14,9,2,Finished,5936596,75511,205.432
+21,stroll,15,10,1,Finished,5937596,74831,207.299
+21,vettel,9,11,0,Finished,5940227,75549,205.328
+21,zhou,13,12,0,Finished,5943369,75802,204.643
+21,mick_schumacher,12,13,0,Finished,5943943,75251,206.142
+21,gasly,10,14,0,Finished,5945911,75327,205.934
+21,albon,19,15,0,Finished,5950060,75613,205.155
+21,latifi,18,16,0,Finished,5951082,75327,205.934
+21,tsunoda,0,17,0,+1 Lap,,75508,205.440
+21,norris,6,18,0,Gearbox,,75855,204.500
+21,kevin_magnussen,8,19,0,Collision,,,
+21,ricciardo,11,20,0,Collision,,,
+22,max_verstappen,1,1,25,Finished,5265914,89392,212.676
+22,leclerc,3,2,18,Finished,5274685,89719,211.901
+22,perez,2,3,15,Finished,5276007,88972,213.680
+22,sainz,4,4,12,Finished,5290806,88879,213.904
+22,russell,6,5,10,Finished,5301802,88836,214.007
+22,norris,7,6,9,Finished,5322148,88391,215.085
+22,ocon,8,7,6,Finished,5323154,89333,212.817
+22,stroll,14,8,4,Finished,5342845,89620,212.135
+22,ricciardo,13,9,2,Finished,5349182,90785,209.413
+22,vettel,9,10,1,Finished,5349812,90312,210.510
+22,tsunoda,11,11,0,Finished,5355285,89489,212.446
+22,zhou,15,12,0,+1 Lap,,89600,212.183
+22,albon,19,13,0,+1 Lap,,89939,211.383
+22,gasly,17,14,0,+1 Lap,,91081,208.732
+22,bottas,18,15,0,+1 Lap,,90352,210.417
+22,mick_schumacher,12,16,0,+1 Lap,,89833,211.632
+22,kevin_magnussen,16,17,0,+1 Lap,,91158,208.556
+22,hamilton,5,18,0,Hydraulics,,89788,211.738
+22,latifi,20,19,0,Collision damage,,90309,210.517
+22,alonso,10,20,0,Water leak,,90579,209.889
